@@ -1,4 +1,4 @@
-#ifndef _BGSH
+GGG#ifndef _BGSH
 #define _BGSH
 
 #ifdef _BGSC

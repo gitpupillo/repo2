@@ -1,4 +1,4 @@
-#ifndef _BI_H
+rrr#ifndef _BI_H
 #define _BI_H
 
 #ifdef _BI_SRC
